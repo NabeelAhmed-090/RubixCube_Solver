@@ -5,10 +5,6 @@
 #include <stack>
 using namespace std;
 
-//19L-0916
-//19L-1098
-
-
 /*
 	Helper funtions for printing
 */
